@@ -13,16 +13,16 @@ st.markdown('')
 st.sidebar.title("Filters")
 
 # Define sidebar options
-difficulty = st.sidebar.selectbox("Select Difficulty", ["Low", "Medium", "High"])
+difficulty = st.sidebar.selectbox("Select a level of difficulty", ["Low", "Medium", "High"])
 skills_options = ["Select All", "Speaking", "Reading", "Listening", "Writing", "Writing, reading", "Speaking, writing", "Speaking, reading", "Listening, writing", "Speaking, listening", "Writing, listening", "Reading, listening"]
-skills = st.sidebar.selectbox("Select Skills Involved", skills_options)
-topic = st.sidebar.selectbox("Select Topic", ["All"] + list(df["Topic"].unique()))
+skills = st.sidebar.selectbox("Select the skills to improve", skills_options)
+topic = st.sidebar.selectbox("Select the class category", ["All"] + list(df["Label"].unique()))
 
 
 # Define filter function
 def filter_dataframe(df, difficulty, skills, topic):
     if topic != "All":
-        df = df[df["Topic"] == topic]
+        df = df[df["Label"] == topic]
     if difficulty:
         df = df[df["Difficulty"] == difficulty]
     if skills and skills != "Select All":
