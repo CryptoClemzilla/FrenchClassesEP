@@ -28,9 +28,9 @@ st.write('Go to the link below to access the Grammar textbooks, the Film and Ser
          'the Comics and the French songs playlists')
 
 # URL Drive button
-url = st.button('Drive')
-if url:
-    webbrowser.open('https://drive.google.com/drive/folders/1fn7NcuYZqm_2P4vdSfUAI8mXzl1_-a7C?usp=share_link')
+#url = st.button('Drive')
+#if url:
+    #webbrowser.open('https://drive.google.com/drive/folders/1fn7NcuYZqm_2P4vdSfUAI8mXzl1_-a7C?usp=share_link')
 # st.markdown("[Drive of the class](https://drive.google.com/drive/folders/1fn7NcuYZqm_2P4vdSfUAI8mXzl1_-a7C?usp=share_link)")
 
 # Add les consignes
