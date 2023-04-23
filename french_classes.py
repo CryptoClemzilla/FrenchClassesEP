@@ -70,6 +70,9 @@ if st.checkbox("Show All Data"):
 else:
     st.dataframe(filtered_df.style.set_table_styles([{'selector': 'th', 'props': [('max-width', '150px')]}]).set_properties(**{'text-align': 'center'}))
 
+st.markdown("Use this dashboard to self-orientate within these French classes. You can select the level of difficulty you desire, the skills you want to practice, as well as the topics you want to approach. "
+            ""
+            "When selecting an activity, please read carefully the column 'Assignment' which tells you how to proceed, and go to the link in the columns Link1 and Link2. Sometimes, the activity is standalone and does not have a link: it's the case for challenges or games, for instance. ")
 # Display the filtered dataframe in a table format
 # Define ag-grid options
 #gb = GridOptionsBuilder.from_dataframe(filtered_df)
@@ -111,7 +114,7 @@ text-align: right;
 
 </style>
 <div class="footer">
-<p>Developed with ❤ <br> <a style='display: block; text-align: right;' href="https://www.heflin.dev/" target="_blank"> Give feedback :)</a></p>
+<p>Made with ❤ <br> <a style='display: block; text-align: right;' href="https://www.heflin.dev/" target="_blank"> Give feedback :)</a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
