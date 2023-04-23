@@ -17,7 +17,7 @@ html, body, [class*="css"]  {
 df = pd.read_csv("french_classes.csv")
 
 # Set page title and subtitle
-st.title(":frog: French Classes A2")
+st.title(":world_map: French Classes A2")
 st.write('Go to the link below to access the Grammar textbooks, the Film and Series repository,'
          'the Comics and the French songs playlists')
 
@@ -29,7 +29,7 @@ st.markdown("[Drive of the class](https://drive.google.com/drive/folders/1fn7Ncu
 st.markdown('')
 
 #Sidebar
-st.sidebar.title('Filter your lesson!')
+st.sidebar.title(':large_blue_circle: Filter your lesson!')
 
 # Define sidebar options
 st.sidebar.subheader('Parameters')
@@ -64,8 +64,12 @@ search_term = st.sidebar.text_input("Search", key='search')
 if search_term:
     filtered_df = filtered_df[filtered_df["Label"].str.contains(search_term, case=False)]
 
+st.sidebar.subheader('Check the programme')
+st.sidebar.markdown("[Daily (study) Programme](https://docs.google.com/document/d/1HiMj2HJz4lBacY21EBP3NtzdRRvTjc3p9EfJiNjGwGw/edit?usp=sharing)")
+
+
 # Display the filtered dataframe in a table format
-if st.checkbox("Show All Data"):
+if st.checkbox("Show All Data :arrow_left:"):
     st.dataframe(df)
 else:
     st.dataframe(filtered_df.style.set_table_styles([{'selector': 'th', 'props': [('max-width', '150px')]}]).set_properties(**{'text-align': 'center'}))
@@ -114,7 +118,7 @@ text-align: right;
 
 </style>
 <div class="footer">
-<p>Made with ❤ <br> <a style='display: block; text-align: right;' href="https://www.heflin.dev/" target="_blank"> Give feedback :)</a></p>
+<p>Made with ❤ <br> <a style='display: block; text-align: right;' href="https://forms.gle/4aW5i8QaM6hBDoad7" target="_blank"> Give feedback :)</a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
