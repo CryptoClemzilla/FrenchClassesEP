@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
+#from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
 import webbrowser
-from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
 
 # config
 st.set_page_config(page_title="French course A2",
@@ -82,16 +82,16 @@ if search_term:
 
 # Display the filtered dataframe in a table format
 # Define ag-grid options
-gb = GridOptionsBuilder.from_dataframe(filtered_df)
-gb.configure_pagination()
-gb.configure_side_bar()
-gb.configure_default_column(groupable=True, value=True, enableRowGroup=True, aggFunc="sum", editable=True)
-gridOptions = gb.build()
+#gb = GridOptionsBuilder.from_dataframe(filtered_df)
+#gb.configure_pagination()
+#gb.configure_side_bar()
+#gb.configure_default_column(groupable=True, value=True, enableRowGroup=True, aggFunc="sum", editable=True)
+#gridOptions = gb.build()
 
 # Display the filtered dataframe using ag-grid
-AgGrid(filtered_df, gridOptions=gridOptions, width='90%', height='800px',
-       update_mode=GridUpdateMode.SELECTION_CHANGED,
-       allow_unsafe_jscode=True, enable_enterprise_modules=True)
+#AgGrid(filtered_df, gridOptions=gridOptions, width='90%', height='800px',
+       #update_mode=GridUpdateMode.SELECTION_CHANGED,
+       #allow_unsafe_jscode=True, enable_enterprise_modules=True)
 
 #footer = st.text_input("", "© 2023 - CM")
 
