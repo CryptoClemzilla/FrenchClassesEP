@@ -1,7 +1,7 @@
-Label,Class_name,Assignment,Link1,Link2,Skills_involved,Difficulty,Format
+Label,Name of the class,Assignment,Link to follow(1),Link to follow (2),Skills_involved,Difficulty,Format
 CV,Créer son CV,"Create your French CV, or translate the one you currently use in French. Make it review by your colleagues and by Clémence.",https://www.youtube.com/watch?v=YNEo5dxFvyI,,"Writing, reading",High,Solo
 Entretien,Entraine toi aux entretiens,"Pass a French interview with Clémence, or a fellow student who feels ready. You must ask your partner to prepare questions, and agree on the job position in advance. ",https://www.youtube.com/watch?v=1X5CICisiC0,,Speaking,High,Group activity
-Présentation,Présente toi à la classe!,"One after the other, let's have a short speech (max 3min) about who we are, what we studied, what we work on, what we like and our aspirations. ",https://www.podcastfrancaisfacile.com/vocabulaire/se-presenter-en-francais.html,,Speaking,Low,Group activity
+Présentation,Présente toi à la classe!,"One after the other, let's have a short speech (max 3min) about who we are, what we studied, what we work on, what we like and our aspirations. ",https://www.podcastfrancaisfacile.com/vocabulaire/se-presenter-en-francais.html,https://www.podcastfrancaisfacile.com/dialogue/mini-dialogue-fle-serie-2-delf-a1-se-presenter.html,Speaking,Low,Group activity
 Vocabulaire,Lis un article sur le site indiqué,"Read an article on the website provided, and discuss your understanding with a student colleague ",https://theconversation.com/fr/politique/articles,,Reading,Medium,Solo
 Vocabulaire,Vocabulaire de la ville,Make yourself some notes to learn the vocabulary.,https://toutenfrancais.tv/vocabulaire-de-la-ville/,https://www.podcastfrancaisfacile.com/vocabulaire/vocabulaire-dans-la-ville.html,Reading,Low,Solo
 Vocabulaire,Vocabulaire du travail,Make yourself some notes to learn the vocabulary.,https://www.francaisavecpierre.com/vocabulaire-du-travail-en-francais/,,Reading,Low,Solo
@@ -31,3 +31,63 @@ Conjugaison,Avoir,"Read all the Cours 2a, then click on the Cours 2b on the bott
 Conjugaison,Parler une langue,"Read all the class about speaking a language, and use it to present yourself and the languages you speak!",https://www.podcastfrancaisfacile.com/cours/cours-2c.html,,"Speaking, reading",Low,Group activity
 Conjugaison,Poser une question,Read the useful material about asking questions and use it to prepare some questions to your colleagues. ,https://www.podcastfrancaisfacile.com/cours/cours-2b.html,https://www.podcastfrancaisfacile.com/cours/cours-3b.html,"Speaking, reading",Low,Group activity
 Vocabulaire,Vocabulaire des loisirs,Read all the useful vocabulary for describing your leisures.,https://www.podcastfrancaisfacile.com/vocabulaire/loisirs-fle-aimer-detester-vocabulaire-activites-debutant.html,,Reading,Low,Solo
+Vocabulaire,Vocabulaire du cinéma,"Watch the video attached in the webpage, and try to note down the vocabulary. Then, ask Clémence for a film excerpt recommendation or take it from the list in the Drive. Watch an excerpt from this chosen film and make a small analysis/description of the scene, written or/and orally. ",https://nathaliefle.com/vocabulaire-cinema-en-francais/,,"Speaking, reading",Medium,Solo
+Vocabulaire,Vocabulaire du vin,"Visit the page and watch the full video about 'how to order wine at the restaurant'. Then, make the small game below to check your understanding. ",https://nathaliefle.com/parler-vin-vocabulaire-utile-francais/,,"Writing, reading",Medium,Solo
+Dialogue,Mini-dialogue,"Try to understand these little dialogues, and to make the exercise.",https://www.podcastfrancaisfacile.com/vocabulaire/mini-dialogue-a-completer.html,,"Writing, reading",Low,Solo
+Grammaire,Sujet de la phrase,Read the lesson and make the small exercise below.,https://www.podcastfrancaisfacile.com/grammaire/le-sujet-de-la-phrase.html,,"Writing, reading",Low,Solo
+Culture générale,Questions sur la France,"In a pair, ask each other the questions on the webpage, and see how many you can answer in French. After, make a small research about the questions you could not answer. The goal is to make you know all the responses!",https://www.podcastfrancaisfacile.com/communication/25-questions-sur-la-france.html,,"Speaking, reading",High,Duo
+Conjugaison,Verbe savoir,"Click on the document and make the exercises on it, following the conjugation lesson. ",https://www.podcastfrancaisfacile.com/conjugaison/savoir-au-present-de-lindicatif.html,,"Writing, reading",Low,Solo
+Conjugaison,Verbe en -cer et -ger,"Click on the document and make the exercises on it, following the conjugation lesson. ",https://www.podcastfrancaisfacile.com/conjugaison/verbes-en-ger-et-cer.html,,"Writing, reading",Medium,Solo
+Conjugaison,"Pouvoir, vouloir, devoir","Click on the document and make the exercises on it, following the conjugation lesson. ",https://www.podcastfrancaisfacile.com/conjugaison/pouvoir-vouloir-devoir-conjugaison.html,https://www.podcastfrancaisfacile.com/conjugaison/phrases-modeles-vouloir-pouvoir-vouloir-savoir.html,"Writing, reading",Medium,Solo
+Accent,Les accents en français,Exercise yourself! Write the missing parts of the sentences and work on the correct accent to use. ,https://www.podcastfrancaisfacile.com/conjugaison/changement-daccent-la-bascule-de-laccent.html,,"Writing, reading",Low,Solo
+Grammaire,Pronoms compléments,"Exercise yourself! Read the sentences below and choose the corresponding answer.
+
+",https://www.podcastfrancaisfacile.com/grammaire/les-pronoms-complements-en-lui-leur-exercice.html,,"Writing, reading",Low,Solo
+Test,Conjugaison présent,TEST! Check your knowledge about the conjugation of all the first group verbs in French. ,https://www.podcastfrancaisfacile.com/conjugaison/conjugaison-test-present.html,,"Writing, reading",Medium,Solo
+Vocabulaire,Vêtements et couleurs,"Activity to study color adjectives and clothing vocabulary. Read the text and associate the text with the images!
+
+",https://www.podcastfrancaisfacile.com/texte/vetements-et-couleurs.html,,"Writing, reading",Medium,Solo
+Grammaire,Grâce à ,"In this lesson, we study the prepositive phrase ""through."" Read the lesson and make the small exercise!
+
+",https://www.podcastfrancaisfacile.com/grammaire/grace-a-expression-dune-cause-positive.html,,"Writing, reading",Medium,Solo
+Conjugaison,Verbe du premier groupe,Conjugate the verbs at the present tense,https://www.podcastfrancaisfacile.com/conjugaison/exercice-conjugaison-des-verbes-du-premier-groupe.html,,"Writing, reading",Low,Solo
+Grammaire,C'est / Il est,"Read (and understand ;)) the lesson, and make the exercise to complete with ""he is / she is / it is"".",https://www.podcastfrancaisfacile.com/grammaire/c-est-un-il-est-lecon-facile.html,,"Writing, reading",Low,Solo
+Vocabulaire,Parler de ses goûts ,"In pair, have a dialogue about what you like and what you dislike, using the vocabulary!",https://www.podcastfrancaisfacile.com/dialogue/mini-dialogues-3-aimer-detester.html,,"Speaking, reading",Medium,Duo
+Grammaire,A condition que / de ,Read the lesson and make the exercise below it.,https://www.podcastfrancaisfacile.com/grammaire/la-condition-en-francais-si-a-condition-de.html,,"Writing, reading",Low,Solo
+Dialogue,Conversation sur la nourriture,"In duo, have a conversation based on a series of questions on the theme of food, using the questions provided in the website! 
+",https://www.podcastfrancaisfacile.com/communication/25-questions-sur-la-nourriture.html,,"Speaking, reading",Medium,Duo
+Dialogue,Conversation sur la liberté,"In duo, have a conversation based on a series of questions on the theme of liberty, using the questions provided in the website! 
+",https://www.podcastfrancaisfacile.com/communication/25-questions-sur-la-liberte.html,,"Speaking, reading",Medium,Duo
+Dialogue,Conversation sur les langues,"In duo, have a conversation based on a series of questions on the theme of languages, using the questions provided in the website! 
+",https://www.podcastfrancaisfacile.com/communication/25-questions-sur-lapprentissage-des-langues.html,,"Speaking, reading",Medium,Duo
+Lecture,La ville de Tours,Read the text and answer the following questions: 1) Does it seem like a nice city? 2) What attracts you the most? 3) What did you dislike the most? 4) What's your favourite city and why? ,https://www.podcastfrancaisfacile.com/texte/tours.html,,"Writing, reading",Medium,Solo
+Lecture,Femmes politiques,,https://www.podcastfrancaisfacile.com/texte/femmes-politiques.html,,Reading,High,Solo
+Grammaire,Les adjectifs possessifs,Read the table and learn it,https://www.podcastfrancaisfacile.com/cours/tableau-adjectifs-possessifs.html,https://www.francaisavecpierre.com/adjectifs-possessifs-en-francais/,Reading,Low,Solo
+Grammaire,Articles définis et indéfinis,Watch the video and do the small exercise,https://www.podcastfrancaisfacile.com/phonetique-2/articles-definis-et-indefinis-exercices.html,https://www.francaisavecpierre.com/les-articles-en-francais/,"Listening, writing",Medium,Solo
+Phonétique,Forme interrogative,"Check the document, and listen and indicate whether the voice goes up or down in the exercise.
+
+",https://www.podcastfrancaisfacile.com/phonetique-2/forme-interrogative-intonation-2.html,,"Reading, listening",Low,Solo
+Phonétique,Les sons en français,"Watch the video about the different sounds that you may find in the French language, and train yourself to pronounce them!",https://www.podcastfrancaisfacile.com/phonetique-2/tableau-des-sons-du-francais.html,,"Speaking, listening",Low,Solo
+Vocabulaire,La quantité,Listen and repeat the vocabulary!,https://www.podcastfrancaisfacile.com/vocabulaire/quantite.html,,"Speaking, listening",Medium,Solo
+Nombres,Compter jusqu'à 100,Learn to count in French from 0 (zero) to 100 (hundred) per step with the help of the video,https://www.podcastfrancaisfacile.com/nombre/nombres_francais_compter-de-zero-a-100_les_nombres_en_francais_facile_apprendre_a_compter.html,https://www.podcastfrancaisfacile.com/nombre/chiffres_1_20.html,"Speaking, reading",Medium,Solo
+Culture générale,Pratiques culturelles en France,Watch the video and do the small exercise answering to the questions in the drop-down!,https://www.podcastfrancaisfacile.com/texte/pratiques-sportives-et-activites-culturelles-en-france.html,,"Writing, reading",Medium,Solo
+Culture générale,Les animés français,Read the text and discuss about it among peers,https://www.podcastfrancaisfacile.com/texte/anime-francais.html,,"Writing, reading",High,Solo
+Coutumes,Tutoiement et vouvoiement,Read the text and answer the questions below,https://www.podcastfrancaisfacile.com/communication/vouvoiement-tutoiement.html,,Reading,Low,Solo
+Coutumes,Les bonnes manières,Read the text and answer the questions below,https://www.podcastfrancaisfacile.com/texte/les-bonnes-manieres.html,,Reading,Medium,Solo
+Culture générale,La population française,Read the text and answer the questions below,https://www.podcastfrancaisfacile.com/texte/chiffres-insee.html,,Reading,High,Solo
+Culture générale,Le macaron,Read the text and answer the questions below,https://www.podcastfrancaisfacile.com/texte/le-macaron-texte-en-francais-facile.html,,Reading,High,Solo
+Traduction,Recette des crêpes,"Read the recipe, and answer to the questions below!",https://www.podcastfrancaisfacile.com/divers/recette/recette-des-crepes.html,https://www.francaisavecpierre.com/apprendre-le-francais-en-cuisinant-les-crepes/,Reading,Medium,Solo
+Cinéma,Parler de séries,"Read the text, answer the questions, the true/false, and learn the vocab!",https://www.podcastfrancaisfacile.com/texte/texte-fle-questions.html,,Reading,Medium,Solo
+Vocabulaire,Les faux amis,Read the lesson and make yourself a note about every false friend in French!,https://www.podcastfrancaisfacile.com/vocabulaire/faux_amis.html,,"Writing, reading",Medium,Solo
+Vocabulaire,Le Tour de France,That's an understanding exercise: listen to the audio and make the exercise!,https://www.podcastfrancaisfacile.com/texte/le-tour-de-france.html,,"Listening, writing",Medium,Solo
+Vocabulaire,Le 14 juillet,"Read the text, answer the questions and learn the vocab!",https://www.podcastfrancaisfacile.com/texte/14-juillet-texte-fle.html,,"Writing, reading",Medium,Solo
+Vocabulaire,Fruits et légumes,Read the lesson and make yourself a note about the vocabulary in French!,https://www.francaisavecpierre.com/jus-fruits-legumes-expressions-idiomatiques/,,"Writing, reading",Low,Solo
+Idiomatique,Comment tu vas ? ,Read the lesson and make yourself a note about the vocabulary in French!,https://www.francaisavecpierre.com/comment-ca-va/,,"Writing, reading",Low,Solo
+Vocabulaire,Conversation téléphonique,Read the lesson and make yourself a note about the vocabulary in French!,https://www.francaisavecpierre.com/conversations-telephoniques-en-francais/,,"Writing, reading",Low,Solo
+Grammaire,Prépositions,Watch the video about prépositions and make yourself some notes that you can practice in further exercises,https://www.francaisavecpierre.com/prepositions-en-francais/,https://www.francaisavecpierre.com/erreurs-de-prepositions-en-francais/,"Listening, writing",Low,Solo
+Adverbes,100 adverbes,Watch the video about adverbs and make yourself some notes that you can practice in further exercises,https://www.francaisavecpierre.com/les-100-adverbes-francais-les-plus-utilises/,,"Writing, listening",Low,Solo
+Négation,La négation,Watch the video and make yourself some notes that you can practice in further exercises,https://www.francaisavecpierre.com/la-negation-en-francais/,https://www.podcastfrancaisfacile.com/exercices/forme-negative.html,"Writing, listening",Low,Solo
+Grammaire,"Bien que, malgré que...",Watch the video and make yourself some notes that you can practice in further exercises,https://www.francaisavecpierre.com/grammaire-francaise-bien-que-malgre-et-malgre-que/,,"Writing, listening",Medium,Solo
+Vocabulaire,Les contraires,Watch the video and make yourself some notes that you can practice in further exercises,https://www.francaisavecpierre.com/avant-apres-devant-derriere/,,"Speaking, listening",Low,Solo
+Grammaire,La cause,Watch the video and make yourself some notes that you can practice in further exercises,https://www.francaisavecpierre.com/expression-de-la-cause-car-parce-que-puisque/,,"Writing, listening",Medium,Solo
+Vocabulaire,Drapeaux et couleurs,Read the lesson and make yourself a note about the vocabulary in French!,https://www.podcastfrancaisfacile.com/podcast/drapeaux-et-couleurs.html,,"Writing, reading",Low,Solo

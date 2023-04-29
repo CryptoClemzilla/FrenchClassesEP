@@ -90,35 +90,37 @@ st.markdown("Use this dashboard to self-orientate within these French classes. Y
        #update_mode=GridUpdateMode.SELECTION_CHANGED,
        #allow_unsafe_jscode=True, enable_enterprise_modules=True)
 
-#footer = st.text_input("", "© 2023 - CM")
+footer = st.text_input("", "Made with ❤")
+st.markdown("[Give feedback](https://forms.gle/4aW5i8QaM6hBDoad7)")
 
-footer="""<style>
-a:link , a:visited{
-color: blue;
-background-color: transparent;
-text-decoration: underline;
-}
 
-a:hover,  a:active {
-color: red;
-background-color: transparent;
-text-decoration: underline;
-}
-
-.footer {
-position: fixed;
-left: 0;
-bottom: 0;
-padding: 8px;
-width: 100%;
-background-color: #99ccff;
-color: black;
-text-align: right;
-}
-
-</style>
-<div class="footer">
-<p>Made with ❤ <br> <a style='display: block; text-align: right;' href="https://forms.gle/4aW5i8QaM6hBDoad7" target="_blank"> Give feedback :)</a></p>
-</div>
-"""
-st.markdown(footer,unsafe_allow_html=True)
+# footer="""<style>
+# a:link , a:visited{
+# color: blue;
+# background-color: transparent;
+# text-decoration: underline;
+# }
+#
+# a:hover,  a:active {
+# color: red;
+# background-color: transparent;
+# text-decoration: underline;
+# }
+#
+# .footer {
+# position: fixed;
+# left: 0;
+# bottom: 0;
+# padding: 8px;
+# width: 100%;
+# background-color: #99ccff;
+# color: black;
+# text-align: right;
+# }
+#
+# </style>
+# <div class="footer">
+# <p>Made with ❤ <br> <a style='display: block; text-align: right;' href="https://forms.gle/4aW5i8QaM6hBDoad7" target="_blank"> Give feedback :)</a></p>
+# </div>
+# """
+# st.markdown(footer,unsafe_allow_html=True)
